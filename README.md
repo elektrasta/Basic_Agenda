@@ -10,10 +10,7 @@ a simple calendar program I developed with C# is available in the database with 
 
 Here are some examples of the application screens of the project:
 
-| picture 1                 | picture 2                 |
-|------------------------|------------------------|------------------------|
 | ![Başlık 1](https://github.com/elektrasta/Basic_Agenda/blob/main/%C3%96merFaruk%C3%87etinkaya211501047/Screenshot/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(1247).png) | ![Başlık 2](https://github.com/elektrasta/Basic_Agenda/blob/main/%C3%96merFaruk%C3%87etinkaya211501047/Screenshot/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(1248).png)
-| Ajanda 1             | Ajanda 2             |
 
 ## Utilization
 
